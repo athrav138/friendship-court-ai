@@ -1,5 +1,5 @@
 # ⚖️ Friendship Court AI
-
+https://friendship-court-ai-7mli.vercel.app/
 **An AI-powered virtual courtroom that turns silly friend arguments into entertaining cases!**
 
 Friendship Court AI provides a fun, structured way to settle lighthearted debates among friends. Using advanced AI models, it steps in as an impartial judge to interrogate the parties, analyze the "evidence," pass a verdict, handle appeals, and even issue harmless, fun consequences for the losing side!
